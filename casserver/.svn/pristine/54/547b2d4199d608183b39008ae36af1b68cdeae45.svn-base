@@ -1,0 +1,9 @@
+package com.kiiik.sso;
+
+import java.util.LinkedHashMap;
+import java.util.Map;
+
+public class OOSConstants {
+	//user@psd  token
+   public static Map<String,String> userLoginInfors = new LinkedHashMap<String,String>();
+}
